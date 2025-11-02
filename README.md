@@ -1,4 +1,6 @@
-Hi there! I am Je Hyun Park. I work on optimization and generalization in DNNs.
+### Hello, I am Je Hyun Park. 
+
+I work on optimization and generalization in DNNs.
 
 <!--
 **Parkprogrammer/Parkprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
